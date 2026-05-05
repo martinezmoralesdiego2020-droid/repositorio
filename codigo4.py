@@ -1,1 +1,0 @@
-print("Este es un archivo de prueba para rama2")
